@@ -1,5 +1,5 @@
 ---
-- hosts: testnodes
+- hosts: typica
   strategy: free
   roles:
     - common
